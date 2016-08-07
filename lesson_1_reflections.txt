@@ -1,0 +1,36 @@
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+1. I need to get profecient at knowing all diff command options
+2. I need to get profiecent at reading the diff output.
+3. Being able to parse the output would be useful.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+- This will make attempting refactoring easier.
+- I should be less adverse to 'taking chances' trying new things.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+-  Manuually commiting will make me think about the logical evolution of the file and perhaps help me organize my work on a project in a more logical manner.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+- seems obvious. In general I will want to use multifile commits
+
+How can you use the commands git log and git diff to view the history of files?
+
+- I need to use these commands more often and learnt o read the output in a savvy manner.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+- I  need to trust my ability to deal with inadvertent chanegs and bugs
+-Knowing how to use git (or other VCS) completely will make this easier.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I will put my lin algebra and numerical recipes code in git.
