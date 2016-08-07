@@ -1,16 +1,22 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-.git diretory is created.
+- .git diretory is created.
 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-Staging area is a bit conceptual. But it also gives you control to experiment in the working directory
+
+- Staging area is a bit conceptual. But it also gives you control to experiment in the working directory
 and selectively decide what should be added to a repository.
+
+- staging area allows total control over what is commited. This is valuable because one
+may work on more than one logical change at a time.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+- you can use the staging area to control what files are in a particular commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
