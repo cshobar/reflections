@@ -31,4 +31,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+- NOt working directly on master will help keep the 'master' version of code more stable.
+- A very quick fix may be more laborious to not do on master.
